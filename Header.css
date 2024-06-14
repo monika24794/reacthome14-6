@@ -1,0 +1,27 @@
+/* src/components/Header.css */
+body {
+    background-color: black;
+}
+
+.extra-section .bg-white {
+    background-color: #000000 !important;
+}
+
+.header-style-6.style-1 .contact-info h6 {
+    color: #fff;
+}
+
+.blink {
+    animation: blinker 1.5s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+.carousel-caption .banner-heading {
+    font-size: 2rem;
+    color: #fff;
+}

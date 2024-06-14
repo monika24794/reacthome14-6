@@ -1,0 +1,26 @@
+/* src/components/Gallery.css */
+.section-title {
+    background-color: #191f23;
+}
+
+.section-title h2 {
+    color: #ee1f23;
+}
+
+.owl-carousel .item {
+    margin-bottom: 1rem;
+}
+
+.card {
+    border: 0;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    text-align: center;
+}
